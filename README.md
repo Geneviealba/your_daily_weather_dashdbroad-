@@ -37,3 +37,10 @@ Created a basic  HTML and CSS to the foundation of the website. The opwn weather
 
 ## The URL of the GitHub repository
 https://github.com/Geneviealba/your_daily_weather_dashdbroad-
+
+## Mock up 
+
+
+https://user-images.githubusercontent.com/94097708/149647463-70eec7cc-0437-49fd-8909-20369c7fcaf5.mp4
+
+
