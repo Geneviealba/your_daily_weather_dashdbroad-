@@ -15,7 +15,7 @@ SO THAT I can plan a trip accordingly
 
 ## Acceptance Criteria
 
-```
+
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -27,5 +27,12 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
-```
 
+
+## Steps I took to Build the app
+
+Created a basic  HTML and CSS to the foundation of the website. The opwn weather api was used to get weather updatas from different city.  
+
+## A deployed version can be viewed here.
+
+## The URL of the GitHub repository
