@@ -1,7 +1,7 @@
-const apiKey = "7dde4d5b94a6ef2dcc4db319b32bb8f2";
+var apiKey = "7dde4d5b94a6ef2dcc4db319b32bb8f2";
 console.log(apiKey);
-const searchBtn = $(".searchBtn");
-const searchInput = $(".searchInput");
+var searchBtn = $(".searchBtn");
+var searchInput = $(".searchInput");
 
 // Locations for the Left column 
 var cityNameEl = $(".cityName");
