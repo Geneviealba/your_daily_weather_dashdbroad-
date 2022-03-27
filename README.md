@@ -1,4 +1,5 @@
-# 06 Server-Side APIs: Weather Dashboard
+## Weather Dashboard With Server-Side APIs
+[![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)](https://opensource.org/licenses/MIT)
 
 ## My Task
 
